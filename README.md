@@ -1,0 +1,1 @@
+This project involves the development of a web scraper using the Scrapy framework in Python to extract information from a given website. The  website contains details about various projects, and the goal of the scraper is to gather data such as project titles, dates, descriptions, and attachments for further analysis.
