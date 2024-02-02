@@ -1,0 +1,1220 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de-DE">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://sgdnord.rlp.de">
+<link rel="icon" href="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/favicon.ico" type="image/vnd.microsoft.icon">
+<title>Planfeststellung Marina Weingarten . Struktur- und Genehmigungsdirektion Nord</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="author" content="Rheinland-Pfalz" />
+<meta name="keywords" content="Rheinland-Pfalz" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="twitter:card" content="summary" />
+<meta name="msapplication-tilecolor" content="#da532c" />
+<meta name="msapplication-config" content="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/browserconfig.xml" />
+<meta name="theme-color" content="#ffffff" />
+
+
+<link rel="stylesheet" href="https://sgdnord.rlp.de/typo3temp/assets/compressed/7015c8c4ac5ff815b57530b221005fc6-a0b20d58aa398f385dc531a1b90b8733.css.gzip?1705564804" media="all">
+<link rel="stylesheet" href="https://sgdnord.rlp.de/typo3temp/assets/compressed/MediaAlbum-98d97e4e554f128228e8fa68e8112d0d.css.gzip?1705564804" media="all">
+<link rel="stylesheet" href="https://sgdnord.rlp.de/typo3conf/ext/rlp_site/Resources/Public/Css/screen.min.css?1705564623" media="all">
+
+
+
+<script src="https://sgdnord.rlp.de/typo3conf/ext/rlp_site/Resources/Public/JavaScript/headerBundle.min.js?1705564625"></script>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/favicon-16x16.png">
+<link rel="manifest" href="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/site.webmanifest">
+<link rel="mask-icon" href="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="canonical" href="http://sgdnord.rlp.de/themen/wasserwirtschaft/laufende-verfahren/planfeststellung-marina-weingarten"/>
+</head>
+<body id="p22591" class="page-22591 pagelevel-4 language-0 backendlayout-default layout-default">
+
+<header id="top-header"
+	        class="pb-7"><nav class="navbar navbar--meta navbar-expand navbar-dark bg-primary" id="nav-meta"><div class="container h-100"><a aria-label="Seitennavigation"
+		   aria-controls="offcanvas"
+		   class="px-0 py-2 nav-item me-3 d-lg-none h-100"
+		   data-bs-toggle="offcanvas"
+		   href="#offcanvas"
+		   role="button"><img class="w-100 h-100 align-top" alt="Seitennavigation" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/list_white.svg" width="40" height="27" /></a><div class="dropdown d-none d-lg-block"><button aria-label="Ministerien"
+						aria-expanded="false"
+						aria-haspopup="true"
+						class="btn dropdown-toggle dropdown-toggle--ministries text-uppercase"
+						data-bs-toggle="dropdown"
+						id="nav-meta-ministries"><span>Ministerien</span></button><ul aria-labelledby="nav-meta-ministries" class="dropdown-menu"><li class=" d-inline-block w-100"><a href="https://www.rlp.de/regierung/staatskanzlei" title="Staatskanzlei" target="_blank" class="dropdown-item text-wrap" role="button">
+				Staatskanzlei
+			</a></li><li class=" d-inline-block w-100"><a href="https://fm.rlp.de" title="Finanzen" target="_blank" class="dropdown-item text-wrap" role="button">
+				Finanzen
+			</a></li><li class=" d-inline-block w-100"><a href="https://mdi.rlp.de" title="Inneres und Sport" target="_blank" class="dropdown-item text-wrap" role="button">
+				Inneres und Sport
+			</a></li><li class=" d-inline-block w-100"><a href="https://mastd.rlp.de" title="Arbeit, Soziales, Transformation und Digitalisierung" target="_blank" class="dropdown-item text-wrap" role="button">
+				Arbeit, Soziales, Transformation und Digitalisierung
+			</a></li><li class=" d-inline-block w-100"><a href="https://bm.rlp.de" title="Bildung" target="_blank" class="dropdown-item text-wrap" role="button">
+				Bildung
+			</a></li><li class=" d-inline-block w-100"><a href="https://mwvlw.rlp.de" title="Wirtschaft, Verkehr, Landwirtschaft und Weinbau" target="_blank" class="dropdown-item text-wrap" role="button">
+				Wirtschaft, Verkehr, Landwirtschaft und Weinbau
+			</a></li><li class=" d-inline-block w-100"><a href="https://jm.rlp.de" title="Justiz" target="_blank" class="dropdown-item text-wrap" role="button">
+				Justiz
+			</a></li><li class=" d-inline-block w-100"><a href="https://mkuem.rlp.de" title="Klimaschutz, Umwelt, Energie und Mobilität" target="_blank" class="dropdown-item text-wrap" role="button">
+				Klimaschutz, Umwelt, Energie und Mobilität
+			</a></li><li class=" d-inline-block w-100"><a href="https://mffki.rlp.de" title="Familien, Frauen, Kultur und Integration" target="_blank" class="dropdown-item text-wrap" role="button">
+				Familien, Frauen, Kultur und Integration
+			</a></li><li class=" nav-item-last mb-6 d-inline-block w-100"><a href="https://mwg.rlp.de" title="Wissenschaft und Gesundheit" target="_blank" class="dropdown-item text-wrap" role="button">
+				Wissenschaft und Gesundheit
+			</a></li></ul></div><button aria-label="Suchen"
+					class="d-md-none py-2 h-100 bg-transparent border-0 pe-0 js__search-item"
+					data-bs-toggle="offcanvas"
+					data-bs-target="#offcanvas"><img class="m-auto h-100 align-top" alt="Suchen" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/search_white.svg" width="25" height="25" /></button><button type="button" aria-label="Suchen"
+					class="search-overlay-trigger d-none d-md-block d-lg-none py-2 h-100 bg-transparent border-0 pe-0"
+					data-bs-toggle="modal"
+					data-bs-target="#searchModal"><img class="m-auto h-100 align-top" alt="Suchen" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/search_white.svg" width="25" height="25" /></button></div></nav><nav class="navbar navbar-expand navbar-light bg-secondary" id="nav-logo"><div class="container"><div id="rlp-logo"><a href="/"><img src="https://sgdnord.rlp.de/fileadmin/_logos/logo_sgdnord.png" width="232" height="106"  class="img-fluid"  alt="Logo Rheinland Pfalz die Landesregierung" ></a></div><div></div></div></nav><nav class="navbar navbar-expand navbar-light bg-white d-none d-lg-block" id="nav-main"><div class="container"><a aria-label="Seitennavigation" aria-controls="offcanvas" class="nav-link px-0 nav-item me-6" data-bs-toggle="offcanvas" href="#offcanvas" role="button"><img alt="Seitennavigation" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/list.svg" width="40" height="27" /></a><ul class="navbar-nav"><li id="page-id-768"
+						class="nav-item page first-level"><a href="/ueber-uns" class="nav-link fw-bold" title="Über uns" role="button">
+						Über uns
+					</a></li><li id="page-id-1542"
+						class="nav-item page first-level active"><a href="/themen" class="nav-link fw-bold" title="Themen" role="button">
+						Themen
+					</a></li><li id="page-id-1802"
+						class="nav-item page first-level"><a href="/karriere" class="nav-link fw-bold" title="Karriere" role="button">
+						Karriere
+					</a></li><li id="page-id-763"
+						class="nav-item page first-level nav-item-last"><a href="/service" class="nav-link fw-bold" title="Service" role="button">
+						Service
+					</a></li></ul><button aria-label="Suchen"
+						type="button"
+				        name="search-modal"
+						class="search-overlay-trigger nav-item nav-item__search d-none d-lg-block bg-transparent border-0 ms-6"
+						data-bs-toggle="modal"
+						data-bs-target="#searchModal"><img class="m-auto nav-item__search__icon align-top" alt="Suchen" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/search_red.svg" width="30" height="30" /></button></div></nav><div class="offcanvas offcanvas-start" id="offcanvas" tabindex="-1"><div class="offcanvas-header pb-5"><button aria-label="Schließen" class="btn-close text-reset p-0 ms-n2" data-bs-dismiss="offcanvas" type="button"></button><div class="offcanvas-header__meta"></div></div><div class="offcanvas-body pt-0"><div class="row"><div class="col-12"><div class="tx_solr"><div class="tx-solr-search-form"><form method="get" class="main-search mb-7" id="tx-solr-search-form-pi-results-offcanvas" action="/suche" data-suggest="/suche?type=7384" data-suggest-header="Top Treffer" accept-charset="utf-8"><div class="input-group"><input type="text" class="js__offcanvas__solr-suggest tx-solr-q js-solr-q tx-solr-suggest tx-solr-suggest-focus form-control" placeholder="Suchbegriff" name="tx_solr[q]" value="" /><div class="input-group-text"><button aria-label="Suchen"
+								class="btn btn-link p-0  tx-solr-submit"
+						        name="search-submit-mobile"
+								type="submit"><img alt="Suchen" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/search.svg" width="20" height="20" /></button></div></div></form></div></div></div></div><nav class="navbar p-0 navbar-light bg-white" id="nav-offcanvas"><ul class="navbar-nav w-100"><li class="nav-item page-id-768 page position-relative first-level dropdown"><div class="position-relative"><a href="/ueber-uns"
+											   class="nav-link fw-bold d-inline-block"
+											   title="Über uns"
+											   role="button"
+											>
+												Über uns
+											</a><button
+												class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+												data-bs-target="#children-of-768"
+												data-bs-toggle="collapse"
+												aria-expanded="false"
+												aria-controls="children-of-768"
+											><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-768" class="collapse ps-3 "><li class="nav-item page-id-1626 "><a href="/ueber-uns/der-praesident"
+						   class="nav-link"
+						   title="Über uns"
+						   target="_self"
+						>
+							Grußwort des SGD-Nord-Präsidenten
+						</a></li><li class="nav-item page-id-2346 dropdown"><div class="position-relative"><a href="/ueber-uns/abteilungen-und-ihre-aufgaben"
+									   class="nav-link d-inline-block"
+									   title="Über uns"
+									   target="_self"
+									>
+										Abteilungen und ihre Aufgaben
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-2346"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-2346"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-2346" class="collapse ps-3 "><li class="nav-item page-id-3726 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-11-personal-ausbildung-allgemeine-rechtsangelegenheiten"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 11 - Personal, Ausbildung, Allgemeine Rechtsangelegenheiten
+						</a></li><li class="nav-item page-id-3728 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-12"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 12 - Organisation, IuK-Technik, Zentrale Dienste
+						</a></li><li class="nav-item page-id-3549 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-13-haushalt-und-controlling"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 13 - Haushalt und Controlling
+						</a></li><li class="nav-item page-id-3729 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-14"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 14 - Öffentlichkeitsarbeit
+						</a></li><li class="nav-item page-id-3759 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-21a"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 21a - Zentralreferat
+						</a></li><li class="nav-item page-id-3583 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/regionalstellen-gewerbeaufsicht-in-idar-oberstein-koblenz-und-trier"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Regionalstellen Gewerbeaufsicht in Idar-Oberstein, Koblenz und Trier
+						</a></li><li class="nav-item page-id-3658 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-31-zentralreferat"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 31 – Zentralreferat
+						</a></li><li class="nav-item page-id-3659 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-32-regionalstelle-wasserwirtschaft-abfallwirtschaft-bodenschutz-in-koblenz"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 32 – Regionalstelle Wasserwirtschaft, Abfallwirtschaft, Bodenschutz Koblenz
+						</a></li><li class="nav-item page-id-3724 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-33"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 33 – Regionalstelle Wasserwirtschaft, Abfallwirtschaft, Bodenschutz Montabaur
+						</a></li><li class="nav-item page-id-3725 "><a href="/ueber-uns/abteilungen-und-ihre-aufgaben/referat-34-regionalstelle-wasserwirtschaft-abfallwirtschaft-bodenschutz-trier"
+						   class="nav-link"
+						   title="Abteilungen und ihre Aufgaben"
+						   target="_self"
+						>
+							Referat 34 – Regionalstelle Wasserwirtschaft, Abfallwirtschaft, Bodenschutz Trier
+						</a></li></ul></li><li class="nav-item page-id-9575 "><a href="/ueber-uns/filme"
+						   class="nav-link"
+						   title="Über uns"
+						   target="_self"
+						>
+							Fünf Videos über die SGD Nord
+						</a></li><li class="nav-item page-id-2344 "><a href="/ueber-uns/zustaendigkeitsgebiet"
+						   class="nav-link"
+						   title="Über uns"
+						   target="_self"
+						>
+							Zuständigkeitsgebiet
+						</a></li><li class="nav-item page-id-2347 "><a href="/ueber-uns/so-erreichen-sie-uns"
+						   class="nav-link"
+						   title="Über uns"
+						   target="_self"
+						>
+							So erreichen Sie uns
+						</a></li><li class="nav-item page-id-2348 "><a href="/ueber-uns/ihr-recht-auf-information"
+						   class="nav-link"
+						   title="Über uns"
+						   target="_self"
+						>
+							Ihr Recht auf Information
+						</a></li></ul></li><li class="nav-item page-id-1542 page position-relative first-level active dropdown"><div class="position-relative"><a href="/themen"
+											   class="nav-link fw-bold d-inline-block active text-black"
+											   title="Themen"
+											   role="button"
+											>
+												Themen
+											</a><button
+												class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 "
+												data-bs-target="#children-of-1542"
+												data-bs-toggle="collapse"
+												aria-expanded="false"
+												aria-controls="children-of-1542"
+											><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1542" class="collapse ps-3 show"><li class="nav-item page-id-5646 dropdown"><div class="position-relative"><a href="/themen/wiederaufbau-ahr"
+									   class="nav-link d-inline-block"
+									   title="Themen"
+									   target="_self"
+									>
+										Wiederaufbau Ahr
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-5646"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-5646"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-5646" class="collapse ps-3 "><li class="nav-item page-id-5668 "><a href="/themen/wiederaufbau-ahr/ueberschwemmungsgebiet"
+						   class="nav-link"
+						   title="Wiederaufbau Ahr"
+						   target="_self"
+						>
+							Überschwemmungsgebiet
+						</a></li><li class="nav-item page-id-7832 "><a href="/themen/wiederaufbau-ahr/hochwasseranschlaglinien"
+						   class="nav-link"
+						   title="Wiederaufbau Ahr"
+						   target="_self"
+						>
+							Hochwasseranschlaglinien
+						</a></li><li class="nav-item page-id-5669 "><a href="/themen/wiederaufbau-ahr/sondermessprogramm"
+						   class="nav-link"
+						   title="Wiederaufbau Ahr"
+						   target="_self"
+						>
+							Sondermessprogramm
+						</a></li><li class="nav-item page-id-5647 "><a href="/themen/wiederaufbau-ahr/wiederaufbauhilfe"
+						   class="nav-link"
+						   title="Wiederaufbau Ahr"
+						   target="_self"
+						>
+							Wiederaufbauhilfe
+						</a></li><li class="nav-item page-id-7228 "><a href="/themen/wiederaufbau-ahr/ersatzwohnflaechen"
+						   class="nav-link"
+						   title="Wiederaufbau Ahr"
+						   target="_self"
+						>
+							Ersatzwohnflächen
+						</a></li></ul></li><li class="nav-item page-id-1771 dropdown"><div class="position-relative"><a href="/themen/arbeitsschutz"
+									   class="nav-link d-inline-block"
+									   title="Themen"
+									   target="_self"
+									>
+										Arbeitsschutz
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1771"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1771"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1771" class="collapse ps-3 "><li class="nav-item page-id-6462 "><a href="/themen/arbeitsschutz/arbeitsstaetten"
+						   class="nav-link"
+						   title="Arbeitsschutz"
+						   target="_self"
+						>
+							Arbeitsstätten
+						</a></li><li class="nav-item page-id-6465 "><a href="/themen/arbeitsschutz/arbeitszeit"
+						   class="nav-link"
+						   title="Arbeitsschutz"
+						   target="_self"
+						>
+							Arbeitszeit
+						</a></li><li class="nav-item page-id-6467 "><a href="/themen/arbeitsschutz/arbeitsstoffe"
+						   class="nav-link"
+						   title="Arbeitsschutz"
+						   target="_self"
+						>
+							Arbeitsstoffe
+						</a></li><li class="nav-item page-id-6470 "><a href="/themen/arbeitsschutz/sprengstoff"
+						   class="nav-link"
+						   title="Arbeitsschutz"
+						   target="_self"
+						>
+							Sprengstoff
+						</a></li><li class="nav-item page-id-6468 "><a href="/themen/arbeitsschutz/gesundheitsschutz-von-muettern-und-jugendlichen"
+						   class="nav-link"
+						   title="Arbeitsschutz"
+						   target="_self"
+						>
+							Gesundheitsschutz von Müttern und Jugendlichen
+						</a></li><li class="nav-item page-id-6469 "><a href="/themen/arbeitsschutz/medizinischer-arbeitsschutz"
+						   class="nav-link"
+						   title="Arbeitsschutz"
+						   target="_self"
+						>
+							Medizinischer Arbeitsschutz
+						</a></li></ul></li><li class="nav-item page-id-1780 "><a href="/themen/bauen-und-eigentum"
+						   class="nav-link"
+						   title="Themen"
+						   target="_self"
+						>
+							Bauen und Eigentum
+						</a></li><li class="nav-item page-id-1778 dropdown"><div class="position-relative"><a href="/themen/bodenschutz"
+									   class="nav-link d-inline-block"
+									   title="Themen"
+									   target="_self"
+									>
+										Bodenschutz
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1778"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1778"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1778" class="collapse ps-3 "><li class="nav-item page-id-3132 dropdown"><div class="position-relative"><a href="/themen/bodenschutz/nachsorgender-bodenschutz"
+									   class="nav-link d-inline-block"
+									   title="Bodenschutz"
+									   target="_self"
+									>
+										Nachsorgender Bodenschutz
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-3132"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-3132"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-3132" class="collapse ps-3 "><li class="nav-item page-id-3141 "><a href="/themen/bodenschutz/nachsorgender-bodenschutz/schaedliche-bodenveraenderungen/-altlasten"
+						   class="nav-link"
+						   title="Nachsorgender Bodenschutz"
+						   target="_self"
+						>
+							Schädliche Bodenveränderungen/ Altlasten
+						</a></li><li class="nav-item page-id-3140 "><a href="/themen/bodenschutz/nachsorgender-bodenschutz/bodenschutzkataster"
+						   class="nav-link"
+						   title="Nachsorgender Bodenschutz"
+						   target="_self"
+						>
+							Bodenschutzkataster
+						</a></li><li class="nav-item page-id-3089 "><a href="/themen/bodenschutz/nachsorgender-bodenschutz/bauen-in-belasteten-bereichen"
+						   class="nav-link"
+						   title="Nachsorgender Bodenschutz"
+						   target="_self"
+						>
+							Bauen in belasteten Bereichen
+						</a></li></ul></li><li class="nav-item page-id-3130 dropdown"><div class="position-relative"><a href="/themen/bodenschutz/vorsorgender-bodenschutz"
+									   class="nav-link d-inline-block"
+									   title="Bodenschutz"
+									   target="_self"
+									>
+										Vorsorgender Bodenschutz
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-3130"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-3130"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-3130" class="collapse ps-3 "><li class="nav-item page-id-4271 "><a href="/themen/bodenschutz/vorsorgender-bodenschutz/bodenverwertung-unterhalb-der-durchwurzelten-bodenschicht"
+						   class="nav-link"
+						   title="Vorsorgender Bodenschutz"
+						   target="_self"
+						>
+							Bodenverwertung unterhalb der durchwurzelten Bodenschicht
+						</a></li><li class="nav-item page-id-4272 "><a href="/themen/bodenschutz/vorsorgender-bodenschutz/bodenverwertung-innerhalb-der-durchwurzelten-bodenschicht"
+						   class="nav-link"
+						   title="Vorsorgender Bodenschutz"
+						   target="_self"
+						>
+							Bodenverwertung innerhalb der durchwurzelten Bodenschicht
+						</a></li></ul></li></ul></li><li class="nav-item page-id-1781 dropdown"><div class="position-relative"><a href="/themen/energie"
+									   class="nav-link d-inline-block"
+									   title="Themen"
+									   target="_self"
+									>
+										Energie
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1781"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1781"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1781" class="collapse ps-3 "><li class="nav-item page-id-5413 "><a href="/themen/energie/windenergieanlagen"
+						   class="nav-link"
+						   title="Energie"
+						   target="_self"
+						>
+							Genehmigungsverfahren für Windenergieanlagen
+						</a></li><li class="nav-item page-id-5446 "><a href="/themen/energie/netzausbau"
+						   class="nav-link"
+						   title="Energie"
+						   target="_self"
+						>
+							Netzausbau
+						</a></li></ul></li><li class="nav-item page-id-1772 dropdown"><div class="position-relative"><a href="/themen/immissionsschutz"
+									   class="nav-link d-inline-block"
+									   title="Themen"
+									   target="_self"
+									>
+										Immissionsschutz
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1772"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1772"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1772" class="collapse ps-3 "><li class="nav-item page-id-5172 "><a href="/themen/immissionsschutz/immission-download"
+						   class="nav-link"
+						   title="Immissionsschutz"
+						   target="_self"
+						>
+							Downloadbereich für Genehmigungs- und Anzeigeverfahren nach Bundes-Immissionsschutzgesetz und dessen Verordnungen
+						</a></li><li class="nav-item page-id-3183 "><a href="/themen/immissionsschutz/industrieemissionen"
+						   class="nav-link"
+						   title="Immissionsschutz"
+						   target="_self"
+						>
+							Emissionen nach Industrieemissionsrichtlinie 2010/75/EU
+						</a></li><li class="nav-item page-id-6494 "><a href="/themen/immissionsschutz/limschg"
+						   class="nav-link"
+						   title="Immissionsschutz"
+						   target="_self"
+						>
+							LImSchG
+						</a></li><li class="nav-item page-id-6546 "><a href="/themen/immissionsschutz/kraftstoffe"
+						   class="nav-link"
+						   title="Immissionsschutz"
+						   target="_self"
+						>
+							Kraftstoffe
+						</a></li><li class="nav-item page-id-6497 "><a href="/themen/immissionsschutz/laerm"
+						   class="nav-link"
+						   title="Immissionsschutz"
+						   target="_self"
+						>
+							Lärm
+						</a></li><li class="nav-item page-id-6499 "><a href="/themen/immissionsschutz/anlagensicherheit"
+						   class="nav-link"
+						   title="Immissionsschutz"
+						   target="_self"
+						>
+							Anlagensicherheit
+						</a></li><li class="nav-item page-id-6502 "><a href="/themen/immissionsschutz/klimaschutz"
+						   class="nav-link"
+						   title="Immissionsschutz"
+						   target="_self"
+						>
+							Klimaschutz
+						</a></li></ul></li><li class="nav-item page-id-1779 dropdown"><div class="position-relative"><a href="/themen/kreislaufwirtschaft"
+									   class="nav-link d-inline-block"
+									   title="Themen"
+									   target="_self"
+									>
+										Kreislaufwirtschaft
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1779"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1779"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1779" class="collapse ps-3 "><li class="nav-item page-id-3592 "><a href="/themen/kreislaufwirtschaft/abfallwirtschaftsplanung"
+						   class="nav-link"
+						   title="Kreislaufwirtschaft"
+						   target="_self"
+						>
+							Abfallwirtschaftsplanung
+						</a></li></ul></li><li class="nav-item page-id-1782 dropdown"><div class="position-relative"><a href="/themen/raumordnung-und-landesplanung"
+									   class="nav-link d-inline-block"
+									   title="Themen"
+									   target="_self"
+									>
+										Raumordnung und Landesplanung
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1782"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1782"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1782" class="collapse ps-3 "><li class="nav-item page-id-1821 dropdown"><div class="position-relative"><a href="/themen/raumordnung-und-landesplanung/landesplanung"
+									   class="nav-link d-inline-block"
+									   title="Raumordnung und Landesplanung"
+									   target="_self"
+									>
+										Landesplanung
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1821"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1821"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-1821" class="collapse ps-3 "><li class="nav-item page-id-8882 "><a href="/themen/raumordnung-und-landesplanung/landesplanung/oeffentlichkeitsbeteiligung-raumordnungsverfahren-zwei-windenergieanlagen-nuerburgring"
+						   class="nav-link"
+						   title="Landesplanung"
+						   target="_self"
+						>
+							Öffentlichkeitsbeteiligung Raumordnungsverfahren zwei Windenergieanlagen Nürburgring
+						</a></li></ul></li><li class="nav-item page-id-1817 dropdown"><div class="position-relative"><a href="/themen/raumordnung-und-landesplanung/rauminformationssystem"
+									   class="nav-link d-inline-block"
+									   title="Raumordnung und Landesplanung"
+									   target="_self"
+									>
+										Rauminformationssystem
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1817"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1817"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-1817" class="collapse ps-3 "><li class="nav-item page-id-7237 "><a href="/themen/raumordnung-und-landesplanung/rauminformationssystem/geodateninfrastruktur"
+						   class="nav-link"
+						   title="Rauminformationssystem"
+						   target="_self"
+						>
+							Geodateninfrastruktur
+						</a></li><li class="nav-item page-id-3475 "><a href="/themen/raumordnung-und-landesplanung/rauminformationssystem/raumbeobachtung"
+						   class="nav-link"
+						   title="Rauminformationssystem"
+						   target="_self"
+						>
+							Raumbeobachtung
+						</a></li></ul></li><li class="nav-item page-id-1818 "><a href="/themen/raumordnung-und-landesplanung/regionalplanung"
+						   class="nav-link"
+						   title="Raumordnung und Landesplanung"
+						   target="_self"
+						>
+							Regionalplanung
+						</a></li><li class="nav-item page-id-1819 dropdown"><div class="position-relative"><a href="/themen/raumordnung-und-landesplanung/grenzueberschreitende-zusammenarbeit"
+									   class="nav-link d-inline-block"
+									   title="Raumordnung und Landesplanung"
+									   target="_self"
+									>
+										Grenzüberschreitende Zusammenarbeit
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1819"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1819"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-1819" class="collapse ps-3 "><li class="nav-item page-id-4362 "><a href="/themen/raumordnung-und-landesplanung/grenzueberschreitende-zusammenarbeit/projekt-interreg-rekgr"
+						   class="nav-link"
+						   title="Grenzüberschreitende Zusammenarbeit"
+						   target="_self"
+						>
+							Projekt Interreg REKGR
+						</a></li></ul></li><li class="nav-item page-id-1820 "><a href="/themen/raumordnung-und-landesplanung/koordinierung"
+						   class="nav-link"
+						   title="Raumordnung und Landesplanung"
+						   target="_self"
+						>
+							Koordinierung
+						</a></li><li class="nav-item page-id-5963 "><a href="/themen/raumordnung-und-landesplanung/mittelrheinquerung"
+						   class="nav-link"
+						   title="Raumordnung und Landesplanung"
+						   target="_self"
+						>
+							Mittelrheinquerung
+						</a></li></ul></li><li class="nav-item page-id-1783 dropdown"><div class="position-relative"><a href="/themen/naturschutz"
+									   class="nav-link d-inline-block"
+									   title="Themen"
+									   target="_self"
+									>
+										Naturschutz
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1783"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1783"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1783" class="collapse ps-3 "><li class="nav-item page-id-3310 "><a href="/themen/naturschutz/landschaftsrahmenplanung"
+						   class="nav-link"
+						   title="Naturschutz"
+						   target="_self"
+						>
+							Landschaftsrahmenplanung
+						</a></li><li class="nav-item page-id-3293 "><a href="/themen/naturschutz/artenschutz"
+						   class="nav-link"
+						   title="Naturschutz"
+						   target="_self"
+						>
+							Artenschutz
+						</a></li><li class="nav-item page-id-3294 "><a href="/themen/naturschutz/landschaftsinformationssystem-lanis"
+						   class="nav-link"
+						   title="Naturschutz"
+						   target="_self"
+						>
+							Landschaftsinformationssystem (LANIS)
+						</a></li><li class="nav-item page-id-3295 "><a href="/themen/naturschutz/natura-2000"
+						   class="nav-link"
+						   title="Naturschutz"
+						   target="_self"
+						>
+							Natura 2000
+						</a></li><li class="nav-item page-id-3296 dropdown"><div class="position-relative"><a href="/themen/naturschutz/naturschutzgebiete"
+									   class="nav-link d-inline-block"
+									   title="Naturschutz"
+									   target="_self"
+									>
+										Naturschutzgebiete
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-3296"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-3296"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-3296" class="collapse ps-3 "><li class="nav-item page-id-22440 "><a href="/themen/naturschutz/naturschutzgebiete/verfahren-zur-ausweisung-des-naturschutzgebietes-nauberg-offenlage"
+						   class="nav-link"
+						   title="Naturschutzgebiete"
+						   target="_self"
+						>
+							Verfahren zur Ausweisung des Naturschutzgebietes &quot;Nauberg&quot; - Offenlage
+						</a></li></ul></li><li class="nav-item page-id-3297 "><a href="/themen/naturschutz/naturschutzfoerderung"
+						   class="nav-link"
+						   title="Naturschutz"
+						   target="_self"
+						>
+							Naturschutzförderung
+						</a></li><li class="nav-item page-id-3298 "><a href="/themen/naturschutz/eingriffsregelung"
+						   class="nav-link"
+						   title="Naturschutz"
+						   target="_self"
+						>
+							Eingriffsregelung
+						</a></li><li class="nav-item page-id-3301 "><a href="/themen/naturschutz/biotopbetreuung"
+						   class="nav-link"
+						   title="Naturschutz"
+						   target="_self"
+						>
+							Biotopbetreuung
+						</a></li><li class="nav-item page-id-3300 "><a href="/themen/naturschutz/biotopbetreung-aktuell"
+						   class="nav-link"
+						   title="Naturschutz"
+						   target="_self"
+						>
+							Biotopbetreuung aktuell
+						</a></li></ul></li><li class="nav-item page-id-1774 "><a href="/themen/strahlenschutz"
+						   class="nav-link"
+						   title="Themen"
+						   target="_self"
+						>
+							Strahlenschutz
+						</a></li><li class="nav-item page-id-1775 "><a href="/themen/verbraucherschutz"
+						   class="nav-link"
+						   title="Themen"
+						   target="_self"
+						>
+							Verbraucherschutz
+						</a></li><li class="nav-item page-id-1777 dropdown"><div class="position-relative"><a href="/themen/wasserwirtschaft"
+									   class="nav-link d-inline-block active text-black"
+									   title="Themen"
+									   target="_self"
+									>
+										Wasserwirtschaft
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 "
+										data-bs-target="#children-of-1777"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1777"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-1777" class="collapse ps-3 show"><li class="nav-item page-id-4929 dropdown"><div class="position-relative"><a href="/themen/wasserwirtschaft/laufende-verfahren"
+									   class="nav-link d-inline-block active text-black"
+									   title="Wasserwirtschaft"
+									   target="_self"
+									>
+										Laufende förmliche Verfahren
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 "
+										data-bs-target="#children-of-4929"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-4929"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-4929" class="collapse ps-3 show"><li class="nav-item page-id-22591 "><a href="/themen/wasserwirtschaft/laufende-verfahren/planfeststellung-marina-weingarten"
+						   class="nav-link active text-black"
+						   title="Laufende förmliche Verfahren"
+						   target="_self"
+						>
+							Planfeststellung Marina Weingarten
+						</a></li><li class="nav-item page-id-8009 "><a href="/themen/wasserwirtschaft/laufende-verfahren/rheindeich-neuwied-engers"
+						   class="nav-link"
+						   title="Laufende förmliche Verfahren"
+						   target="_self"
+						>
+							Rheindeich Neuwied-Engers
+						</a></li><li class="nav-item page-id-7197 "><a href="/themen/wasserwirtschaft/laufende-verfahren/einschraenkung-gemeingebrauch-auf-und-an-der-sauer"
+						   class="nav-link"
+						   title="Laufende förmliche Verfahren"
+						   target="_self"
+						>
+							Einschränkung Gemeingebrauch auf und an der Sauer
+						</a></li><li class="nav-item page-id-7193 "><a href="/themen/wasserwirtschaft/laufende-verfahren/uesg-asdorfer-bach"
+						   class="nav-link"
+						   title="Laufende förmliche Verfahren"
+						   target="_self"
+						>
+							Überschwemmungsgebiet Asdorfer Bach
+						</a></li><li class="nav-item page-id-6785 "><a href="/themen/wasserwirtschaft/laufende-verfahren/vgv-gerolstein-wsg-birgel-brunnen-ober-der-hollpuetz-und-im-poppental"
+						   class="nav-link"
+						   title="Laufende förmliche Verfahren"
+						   target="_self"
+						>
+							VGV Gerolstein – Wasserschutzgebiet Birgel Brunnen &quot;Ober der Hollpütz&quot; und &quot;Im Poppental&quot;
+						</a></li><li class="nav-item page-id-6782 "><a href="/themen/wasserwirtschaft/laufende-verfahren/vg-gerolstein-wasserschutzgebiet-birgel-brunnen-im-suhr"
+						   class="nav-link"
+						   title="Laufende förmliche Verfahren"
+						   target="_self"
+						>
+							VG Gerolstein – Wasserschutzgebiet Birgel Brunnen &quot;Im Suhr&quot;
+						</a></li><li class="nav-item page-id-6780 "><a href="/themen/wasserwirtschaft/laufende-verfahren/vgv-bad-marienberg-wsg-stollen-alexandria"
+						   class="nav-link"
+						   title="Laufende förmliche Verfahren"
+						   target="_self"
+						>
+							VGV Bad Marienberg – WSG &quot;Stollen Alexandria&quot;
+						</a></li></ul></li><li class="nav-item page-id-4928 dropdown"><div class="position-relative"><a href="/themen/wasserwirtschaft/aktion-blau-plus/-wasser-erleben"
+									   class="nav-link d-inline-block"
+									   title="Wasserwirtschaft"
+									   target="_self"
+									>
+										Aktion Blau Plus/ Wasser erleben
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-4928"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-4928"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-4928" class="collapse ps-3 "><li class="nav-item page-id-7238 "><a href="https://www.lila-livinglahn.de/"
+						   class="nav-link"
+						   title="Aktion Blau Plus/ Wasser erleben"
+						   target="https://www.lila-livinglahn.de/"
+						>
+							Living Lahn
+						</a></li><li class="nav-item page-id-6799 "><a href="/themen/wasserwirtschaft/aktion-blau-plus/-wasser-erleben/beispielhafte-projekte"
+						   class="nav-link"
+						   title="Aktion Blau Plus/ Wasser erleben"
+						   target="_self"
+						>
+							Beispielhafte Projekte
+						</a></li><li class="nav-item page-id-22368 "><a href="/themen/wasserwirtschaft/aktion-blau-plus/-wasser-erleben/durchgaengigkeit"
+						   class="nav-link"
+						   title="Aktion Blau Plus/ Wasser erleben"
+						   target="_self"
+						>
+							Durchgängigkeit
+						</a></li><li class="nav-item page-id-7229 "><a href="https://www.mosellum.de/index.html"
+						   class="nav-link"
+						   title="Aktion Blau Plus/ Wasser erleben"
+						   target="https://www.mosellum.de/index.html"
+						>
+							Mosellum
+						</a></li></ul></li><li class="nav-item page-id-4927 dropdown"><div class="position-relative"><a href="/themen/wasserwirtschaft/auskunftsysteme"
+									   class="nav-link d-inline-block"
+									   title="Wasserwirtschaft"
+									   target="_self"
+									>
+										Auskunftsysteme
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-4927"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-4927"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-4927" class="collapse ps-3 "><li class="nav-item page-id-7241 "><a href="https://www.wetter.rlp.de/Agrarmeteorologie"
+						   class="nav-link"
+						   title="Auskunftsysteme"
+						   target="_blank"
+						>
+							Agrameterolgie RLP
+						</a></li><li class="nav-item page-id-7240 "><a href="https://geoportal-wasser.rlp-umwelt.de/servlet/is/8460/"
+						   class="nav-link"
+						   title="Auskunftsysteme"
+						   target="_blank"
+						>
+							Digitales Wasserbuch
+						</a></li><li class="nav-item page-id-7239 "><a href="https://wasserportal.rlp-umwelt.de/servlet/is/391/"
+						   class="nav-link"
+						   title="Auskunftsysteme"
+						   target="_blank"
+						>
+							Geoportal Wasser
+						</a></li></ul></li><li class="nav-item page-id-4926 "><a href="/themen/wasserwirtschaft/fischerei"
+						   class="nav-link"
+						   title="Wasserwirtschaft"
+						   target="_self"
+						>
+							Fischerei
+						</a></li><li class="nav-item page-id-4925 "><a href="/themen/wasserwirtschaft/finanzielle-unterstuetzung"
+						   class="nav-link"
+						   title="Wasserwirtschaft"
+						   target="_self"
+						>
+							Finanzielle Unterstützung
+						</a></li><li class="nav-item page-id-4924 dropdown"><div class="position-relative"><a href="/themen/wasserwirtschaft/gewaesserschutz"
+									   class="nav-link d-inline-block"
+									   title="Wasserwirtschaft"
+									   target="_self"
+									>
+										Gewässerschutz
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-4924"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-4924"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-4924" class="collapse ps-3 "><li class="nav-item page-id-4978 dropdown"><div class="position-relative"><a href="/themen/wasserwirtschaft/gewaesserschutz/gewaesserguete"
+									   class="nav-link d-inline-block"
+									   title="Gewässerschutz"
+									   target="_self"
+									>
+										Gewässergüte
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-4978"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-4978"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-4978" class="collapse ps-3 "><li class="nav-item page-id-5071 "><a href="/themen/wasserwirtschaft/gewaesserschutz/gewaesserguete/pft/pfc-belastungen-in-wasser-und-boden"
+						   class="nav-link"
+						   title="Gewässergüte"
+						   target="_self"
+						>
+							PFAS-Belastungen in Wasser und Boden
+						</a></li><li class="nav-item page-id-4980 "><a href="/themen/wasserwirtschaft/gewaesserschutz/gewaesserguete/gewaesser-untersuchungsstationen"
+						   class="nav-link"
+						   title="Gewässergüte"
+						   target="_self"
+						>
+							Gewässer-Untersuchungsstationen
+						</a></li></ul></li><li class="nav-item page-id-4977 "><a href="/themen/wasserwirtschaft/gewaesserschutz/kommunales-abwasser"
+						   class="nav-link"
+						   title="Gewässerschutz"
+						   target="_self"
+						>
+							Kommunales Abwasser
+						</a></li><li class="nav-item page-id-4976 "><a href="/themen/wasserwirtschaft/gewaesserschutz/gewerbliches-und-industrielles-abwasser"
+						   class="nav-link"
+						   title="Gewässerschutz"
+						   target="_self"
+						>
+							Gewerbliches und industrielles Abwasser
+						</a></li><li class="nav-item page-id-4975 dropdown"><div class="position-relative"><a href="/themen/wasserwirtschaft/gewaesserschutz/wassergefaehrdende-stoffe"
+									   class="nav-link d-inline-block"
+									   title="Gewässerschutz"
+									   target="_self"
+									>
+										Wassergefährdende Stoffe
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-4975"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-4975"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-4975" class="collapse ps-3 "><li class="nav-item page-id-5213 "><a href="/themen/wasserwirtschaft/gewaesserschutz/wassergefaehrdende-stoffe/materialien-zum-download"
+						   class="nav-link"
+						   title="Wassergefährdende Stoffe"
+						   target="_self"
+						>
+							Materialien zum Download
+						</a></li><li class="nav-item page-id-5077 "><a href="/themen/wasserwirtschaft/gewaesserschutz/wassergefaehrdende-stoffe/heizoelverbraucheranlagen-und-hochwasser"
+						   class="nav-link"
+						   title="Wassergefährdende Stoffe"
+						   target="_self"
+						>
+							Heizölverbraucheranlagen und Hochwasser
+						</a></li><li class="nav-item page-id-5076 "><a href="/themen/wasserwirtschaft/gewaesserschutz/wassergefaehrdende-stoffe/brandschadensfaelle-leitfaden-brandschadensfaelle"
+						   class="nav-link"
+						   title="Wassergefährdende Stoffe"
+						   target="_self"
+						>
+							Brandschadensfälle
+						</a></li></ul></li></ul></li><li class="nav-item page-id-4920 "><a href="/themen/wasserwirtschaft/klimawandel-in-der-wasserwirtschaft"
+						   class="nav-link"
+						   title="Wasserwirtschaft"
+						   target="_self"
+						>
+							Klimawandel in der Wasserwirtschaft
+						</a></li><li class="nav-item page-id-4919 "><a href="/themen/wasserwirtschaft/europaeische-wasserrahmenrichtlinie-wrrl"
+						   class="nav-link"
+						   title="Wasserwirtschaft"
+						   target="_self"
+						>
+							Europäische Wasserrahmenrichtlinie (WRRL)
+						</a></li><li class="nav-item page-id-4918 dropdown"><div class="position-relative"><a href="/themen/wasserwirtschaft/abwasserabgabe/-wasserentnahmeentgelt"
+									   class="nav-link d-inline-block"
+									   title="Wasserwirtschaft"
+									   target="_self"
+									>
+										Abwasserabgabe/ Wasserentnahmeentgelt
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-4918"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-4918"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="children-of-4918" class="collapse ps-3 "><li class="nav-item page-id-4967 "><a href="/themen/wasserwirtschaft/abwasserabgabe/-wasserentnahmeentgelt/abwasserabgabe"
+						   class="nav-link"
+						   title="Abwasserabgabe/ Wasserentnahmeentgelt"
+						   target="_self"
+						>
+							Abwasserabgabe
+						</a></li><li class="nav-item page-id-4930 "><a href="/themen/wasserwirtschaft/abwasserabgabe/-wasserentnahmeentgelt/wasserentnahmeentgelt"
+						   class="nav-link"
+						   title="Abwasserabgabe/ Wasserentnahmeentgelt"
+						   target="_self"
+						>
+							Wasserentnahmeentgelt
+						</a></li></ul></li></ul></li></ul></li><li class="nav-item page-id-1802 page position-relative first-level dropdown"><div class="position-relative"><a href="/karriere"
+											   class="nav-link fw-bold d-inline-block"
+											   title="Karriere"
+											   role="button"
+											>
+												Karriere
+											</a><button
+												class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+												data-bs-target="#children-of-1802"
+												data-bs-toggle="collapse"
+												aria-expanded="false"
+												aria-controls="children-of-1802"
+											><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-1802" class="collapse ps-3 "><li class="nav-item page-id-4451 "><a href="/stellenangebote"
+						   class="nav-link"
+						   title="Karriere"
+						   target="_self"
+						>
+							Stellenangebote
+						</a></li><li class="nav-item page-id-1825 dropdown"><div class="position-relative"><a href="/karriere/wir-bilden-aus"
+									   class="nav-link d-inline-block"
+									   title="Karriere"
+									   target="_self"
+									>
+										Wir bilden aus
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-1825"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-1825"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-1825" class="collapse ps-3 "><li class="nav-item page-id-3604 "><a href="/karriere/wir-bilden-aus/fuer-den-zugang-zum-dritten-einstiegsamt-im-verwaltungsdienst-in-den-studienfachrichtungen-verwaltung-/-verwaltungsbetriebswirtschaft"
+						   class="nav-link"
+						   title="Wir bilden aus"
+						   target="_self"
+						>
+							Für den Zugang zum dritten Einstiegsamt im Verwaltungsdienst in den Studienfachrichtungen Verwaltung / Verwaltungsbetriebswirtschaft
+						</a></li><li class="nav-item page-id-3607 "><a href="/karriere/wir-bilden-aus/fuer-den-zugang-zum-zweiten-einstiegsamt-im-verwaltungsdienst"
+						   class="nav-link"
+						   title="Wir bilden aus"
+						   target="_self"
+						>
+							für den Zugang zum zweiten Einstiegsamt im Verwaltungsdienst
+						</a></li><li class="nav-item page-id-6013 "><a href="/karriere/wir-bilden-aus/kauffrau-/-kaufmann-fuer-bueromanagement"
+						   class="nav-link"
+						   title="Wir bilden aus"
+						   target="_self"
+						>
+							Kauffrau / Kaufmann für Büromanagement
+						</a></li><li class="nav-item page-id-6024 "><a href="/karriere/wir-bilden-aus/fachinformatiker/in"
+						   class="nav-link"
+						   title="Wir bilden aus"
+						   target="_self"
+						>
+							Fachinformatiker/in
+						</a></li><li class="nav-item page-id-6020 "><a href="/karriere/wir-bilden-aus/pflichtstation-verwaltung"
+						   class="nav-link"
+						   title="Wir bilden aus"
+						   target="_self"
+						>
+							Pflichtstation Verwaltung
+						</a></li><li class="nav-item page-id-6023 "><a href="/karriere/wir-bilden-aus/umwelttechnik-oder-wasserwesen"
+						   class="nav-link"
+						   title="Wir bilden aus"
+						   target="_self"
+						>
+							Umwelttechnik oder Wasserwesen
+						</a></li></ul></li><li class="nav-item page-id-6216 "><a href="/karriere/praktika"
+						   class="nav-link"
+						   title="Karriere"
+						   target="_self"
+						>
+							Praktika
+						</a></li><li class="nav-item page-id-2472 "><a href="/karriere/vereinbarkeit-von-familie-und-beruf"
+						   class="nav-link"
+						   title="Karriere"
+						   target="_self"
+						>
+							Familie und Beruf
+						</a></li><li class="nav-item page-id-2473 "><a href="/karriere/auszeichnungen"
+						   class="nav-link"
+						   title="Karriere"
+						   target="_self"
+						>
+							Auszeichnungen
+						</a></li></ul></li><li class="nav-item page-id-763 page position-relative first-level dropdown nav-item-last"><div class="position-relative"><a href="/service"
+											   class="nav-link fw-bold d-inline-block"
+											   title="Service"
+											   role="button"
+											>
+												Service
+											</a><button
+												class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+												data-bs-target="#children-of-763"
+												data-bs-toggle="collapse"
+												aria-expanded="false"
+												aria-controls="children-of-763"
+											><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-763" class="collapse ps-3 "><li class="nav-item page-id-6498 "><a href="/service/bekanntmachungen"
+						   class="nav-link"
+						   title="Service"
+						   target="_self"
+						>
+							Bekanntmachungen
+						</a></li><li class="nav-item page-id-3731 "><a href="/service/einheitlicher-ansprechpartner"
+						   class="nav-link"
+						   title="Service"
+						   target="_self"
+						>
+							Einheitlicher Ansprechpartner
+						</a></li><li class="nav-item page-id-3643 "><a href="/service/elektronische-kommunikation"
+						   class="nav-link"
+						   title="Service"
+						   target="_self"
+						>
+							Elektronische Kommunikation
+						</a></li><li class="nav-item page-id-3758 "><a href="/service/links"
+						   class="nav-link"
+						   title="Service"
+						   target="_self"
+						>
+							Links
+						</a></li><li class="nav-item page-id-5768 dropdown"><div class="position-relative"><a href="/service/newsletter/anmeldung"
+									   class="nav-link d-inline-block"
+									   title="Service"
+									   target="_self"
+									>
+										Newsletter
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-5768"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-5768"
+									><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-5768" class="collapse ps-3 "><li class="nav-item page-id-5778 "><a href="/service/newsletter/anmeldung"
+						   class="nav-link"
+						   title="Newsletter"
+						   target="_self"
+						>
+							Anmeldung
+						</a></li><li class="nav-item page-id-5776 "><a href="/service/newsletter/abmeldung"
+						   class="nav-link"
+						   title="Newsletter"
+						   target="_self"
+						>
+							Abmeldung
+						</a></li></ul></li><li class="nav-item page-id-764 "><a href="/service/pressemitteilungen"
+						   class="nav-link"
+						   title="Service"
+						   target="_self"
+						>
+							Pressemitteilungen
+						</a></li></ul></li></ul></nav><nav id="nav-offcanvas-footer" class="py-6"><ul class="nav navbar-nav flex-column"><li class="nav-item dropdown"><div class="position-relative"><a aria-controls="nav-offcanvas-footer-1"
+										 aria-expanded="false" class="nav-link d-inline-block text-black"
+										 data-bs-target="#nav-offcanvas-footer-1"
+										 data-bs-toggle="collapse"
+										 href="#"
+										 id="nav-offcanvas-footer-toggle-1"
+										 role="button"
+										 title="Wichtige Seiten">
+										Wichtige Seiten
+									</a><button aria-controls="nav-offcanvas-footer-1"
+												aria-expanded="false"
+												class="bg-transparent border-0 nav-link nav-link__toggle float-end  px-3 me-n3 collapsed"
+												data-bs-target="#nav-offcanvas-footer-1"
+												data-bs-toggle="collapse"><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul aria-labelledby="nav-offcanvas-footer-toggle-1"
+								class="nav-offcanvas-list collapse "
+								id="nav-offcanvas-footer-1"><li class="nav-item page "><a class="nav-link" href="/service/bekanntmachungen"  title="Bekanntmachungen">
+											Bekanntmachungen
+										</a></li><li class="nav-item page "><a class="nav-link" href="/wichtige-seiten/datenschutz"  title="Datenschutz">
+											Datenschutz
+										</a></li><li class="nav-item page "><a class="nav-link" href="/service/elektronische-kommunikation"  title="Elektronische Kommunikation">
+											Elektronische Kommunikation
+										</a></li><li class="nav-item page "><a class="nav-link" href="/service/erklaerung-zur-barrierefreiheit"  title="Erklärung zur Barrierefreiheit">
+											Erklärung zur Barrierefreiheit
+										</a></li><li class="nav-item page "><a class="nav-link" href="/ueber-uns/ihr-recht-auf-information"  title="Ihr Recht auf Information">
+											Ihr Recht auf Information
+										</a></li><li class="nav-item page "><a class="nav-link" href="/wichtige-seiten/impressum"  title="Impressum">
+											Impressum
+										</a></li><li class="nav-item page  nav-item-last"><a class="nav-link" href="/wichtige-seiten/sitemap"  title="Sitemap">
+											Sitemap
+										</a></li></ul></li><li class="nav-item dropdown"><div class="position-relative"><a aria-controls="nav-offcanvas-footer-2"
+										 aria-expanded="false" class="nav-link d-inline-block text-black"
+										 data-bs-target="#nav-offcanvas-footer-2"
+										 data-bs-toggle="collapse"
+										 href="#"
+										 id="nav-offcanvas-footer-toggle-2"
+										 role="button"
+										 title="Kontakt">
+										Kontakt
+									</a><button aria-controls="nav-offcanvas-footer-2"
+												aria-expanded="false"
+												class="bg-transparent border-0 nav-link nav-link__toggle float-end  px-3 me-n3 collapsed"
+												data-bs-target="#nav-offcanvas-footer-2"
+												data-bs-toggle="collapse"><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul aria-labelledby="nav-offcanvas-footer-toggle-2"
+								class="nav-offcanvas-list collapse "
+								id="nav-offcanvas-footer-2"><li class="nav-item page "><a class="nav-link" href="/kontakt/ihre-nachricht-an-die-sgd-nord"  title="Ihre Nachricht an die SGD Nord">
+											Ihre Nachricht an die SGD Nord
+										</a></li><li class="nav-item page "><a class="nav-link" href="/ueber-uns/so-erreichen-sie-uns"  title="So erreichen Sie uns">
+											So erreichen Sie uns
+										</a></li><li class="nav-item page  nav-item-last"><a class="nav-link" href="http://145.253.129.252" target=_blank title="Suche nach Ansprechpersonen">
+											Suche nach Ansprechpersonen
+										</a></li></ul></li><li class="nav-item dropdown"><div class="position-relative"><a aria-controls="nav-offcanvas-footer-3"
+										 aria-expanded="false" class="nav-link d-inline-block text-black"
+										 data-bs-target="#nav-offcanvas-footer-3"
+										 data-bs-toggle="collapse"
+										 href="#"
+										 id="nav-offcanvas-footer-toggle-3"
+										 role="button"
+										 title="Presse">
+										Presse
+									</a><button aria-controls="nav-offcanvas-footer-3"
+												aria-expanded="false"
+												class="bg-transparent border-0 nav-link nav-link__toggle float-end  px-3 me-n3 collapsed"
+												data-bs-target="#nav-offcanvas-footer-3"
+												data-bs-toggle="collapse"><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul aria-labelledby="nav-offcanvas-footer-toggle-3"
+								class="nav-offcanvas-list collapse "
+								id="nav-offcanvas-footer-3"><li class="nav-item page "><a class="nav-link" href="/service/pressemitteilungen"  title="News und Ansprechpersonen">
+											News und Ansprechpersonen
+										</a></li><li class="nav-item page  nav-item-last"><a class="nav-link" href="/service/newsletter/anmeldung"  title="Newsletter">
+											Newsletter
+										</a></li></ul></li></ul></nav><nav><ul class="nav navbar-nav flex-column"><li class="nav-item"><div class="position-relative" id="nav-offcanvas-ministries-toggle"><a href="#"
+						 class="nav-link collapsed text-black fw-bold" title="" role="button"
+						 data-bs-target="#nav-offcanvas-ministries" data-bs-toggle="collapse" aria-expanded="false"
+						 aria-controls="nav-offcanvas-ministries"><span>Ministerien</span></a><button
+						class="nav-link__toggle bg-transparent border-0 nav-link float-end collapsed"
+						data-bs-target="#nav-offcanvas-ministries"
+						data-bs-toggle="collapse"
+						aria-expanded="false"
+						aria-controls="nav-offcanvas-ministries"
+					><img class="icon" alt="Pfeil" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="nav-offcanvas-ministries"
+					class="nav-offcanvas-list collapse"
+					aria-labelledby="nav-offcanvas-ministries-toggle"><li class="nav-item page "><a href="https://www.rlp.de/regierung/staatskanzlei" title="Staatskanzlei" target="_blank" class="nav-link" role="button">
+								Staatskanzlei
+							</a></li><li class="nav-item page "><a href="https://fm.rlp.de" title="Finanzen" target="_blank" class="nav-link" role="button">
+								Finanzen
+							</a></li><li class="nav-item page "><a href="https://mdi.rlp.de" title="Inneres und Sport" target="_blank" class="nav-link" role="button">
+								Inneres und Sport
+							</a></li><li class="nav-item page "><a href="https://mastd.rlp.de" title="Arbeit, Soziales, Transformation und Digitalisierung" target="_blank" class="nav-link" role="button">
+								Arbeit, Soziales, Transformation und Digitalisierung
+							</a></li><li class="nav-item page "><a href="https://bm.rlp.de" title="Bildung" target="_blank" class="nav-link" role="button">
+								Bildung
+							</a></li><li class="nav-item page "><a href="https://mwvlw.rlp.de" title="Wirtschaft, Verkehr, Landwirtschaft und Weinbau" target="_blank" class="nav-link" role="button">
+								Wirtschaft, Verkehr, Landwirtschaft und Weinbau
+							</a></li><li class="nav-item page "><a href="https://jm.rlp.de" title="Justiz" target="_blank" class="nav-link" role="button">
+								Justiz
+							</a></li><li class="nav-item page "><a href="https://mkuem.rlp.de" title="Klimaschutz, Umwelt, Energie und Mobilität" target="_blank" class="nav-link" role="button">
+								Klimaschutz, Umwelt, Energie und Mobilität
+							</a></li><li class="nav-item page "><a href="https://mffki.rlp.de" title="Familien, Frauen, Kultur und Integration" target="_blank" class="nav-link" role="button">
+								Familien, Frauen, Kultur und Integration
+							</a></li><li class="nav-item page  nav-item-last"><a href="https://mwg.rlp.de" title="Wissenschaft und Gesundheit" target="_blank" class="nav-link" role="button">
+								Wissenschaft und Gesundheit
+							</a></li></ul></li></ul></nav><p class="pt-7">Folgen Sie uns:</p><nav class="nav-social navbar navbar-expand pt-0"><ul class="navbar-nav"><li class="nav-item me-5"><a href="https://twitter.com/SGDNord_rlp" target="_blank" class="nav-link d-block p-0" rel="noreferrer"><img class="nav-link__icon h-100 w-auto" title="X ehemals Twitter" alt="X ehemals Twitter" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/twitter-x.svg" width="20" height="20" /></a></li><li class="nav-item me-5"><a href="https://www.youtube.com/channel/UCF_gjxKKsHVil9xYbQ5HGrw" target="_blank" class="nav-link d-block p-0" rel="noreferrer"><img class="nav-link__icon h-100 w-auto" title="Youtube" alt="Youtube" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/youtube.svg" width="20" height="20" /></a></li></ul></nav></div></div><div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true"><div class="modal-dialog modal-dialog-centered modal-xl"><div class="modal-content border-0 rounded-0"><div class="modal-header border-0"><h5 class="modal-title invisible" id="searchModalLabel">Suche</h5><button type="button" class="btn-close p-0 m-0 align-top" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><div class="row"><div class="col-12"><div class="tx_solr"><div class="tx-solr-search-form"><div class="row justify-content-center"><div class="col-8"><form method="get" class="main-search m-0" id="tx-solr-search-form-pi-results-modal" action="/suche" data-suggest="/suche?type=7384" data-suggest-header="Top Treffer" accept-charset="utf-8"><div class="input-group"><input type="text" class="js__modal__solr-suggest tx-solr-q js-solr-q tx-solr-suggest tx-solr-suggest-focus form-control"
+							   placeholder="Suchbegriff"
+							   name="tx_solr[q]"
+							   value=""
+						/><button aria-label="Suchen"
+								class="btn btn-outline-secondary tx-solr-submit"
+						        name="modal-search-submit"
+								type="submit"><img class="m-auto nav-item__search__icon align-middle" alt="Suchen" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/search.svg" width="30" height="30" /></button></div></form></div></div></div></div></div></div></div></div></div></div></header><div itemscope="itemscope"><main role="main" itemprop="mainContentOfPage"><section class="container pb-7 my-0 frame frame-default frame-type-breadcrumb"><div class="row"><div class="col-12"><nav aria-label="breadcrumb"><div class="js__breadcrumb breadcrumb m-0" itemscope itemtype="https://schema.org/BreadcrumbList"><div class="breadcrumb-item first"><a href="/" class="text-black text-decoration-none text-uppercase" itemprop="item"><span itemprop="name">Startseite</span></a><meta itemprop="position" content="1" /></div><button class="js__breadcrumb-btn breadcrumb-btn breadcrumb-item btn-link text-decoration-none" type="button" title="Breadcrumbnavigation öffnen" data-bs-toggle="collapse" data-bs-target="#breadcrumb-collapse" aria-expanded="false" aria-controls="breadcrumb-collapse" aria-current="page"><span class="fw-bold">...</span></button><div class="breadcrumb--collapse-container collapse" id="breadcrumb-collapse"><div class="breadcrumb-item"><a href="/themen" class="text-black text-decoration-none text-uppercase" itemprop="item"><span itemprop="name">Themen</span></a><meta itemprop="position" content="2" /></div><div class="breadcrumb-item"><a href="/themen/wasserwirtschaft" class="text-black text-decoration-none text-uppercase" itemprop="item"><span itemprop="name">Wasserwirtschaft</span></a><meta itemprop="position" content="3" /></div><div class="breadcrumb-item"><a href="/themen/wasserwirtschaft/laufende-verfahren" class="text-black text-decoration-none text-uppercase" itemprop="item"><span itemprop="name">Laufende förmliche Verfahren</span></a><meta itemprop="position" content="4" /></div><div class="breadcrumb-item" aria-current="page" itemprop="item"><div class="fw-bold text-uppercase" itemprop="name">Planfeststellung Marina Weingarten</div><meta itemprop="position" content="5" /></div></div><div class="js__breadcrumb-current-item breadcrumb-item current" aria-current="page" itemprop="item"><span class="text-black text-uppercase fw-bold" itemprop="name">Planfeststellung Marina Weingarten</span><meta itemprop="position" content="5" /></div></div></nav></div></div></section><!--TYPO3SEARCH_begin--><div id="c81005" class="container py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><header><h2>Veröffentlichungen</h2></header><div class="ce-textpic"><div class="ce-bodytext"><p><a href="https://sgdnord.rlp.de/fileadmin/sgdnord/Abteilung_3/Dokumente/Wasserwirtschaft/Laufende_Verfahren/Marina_Weingarten_Zell_Projekt_GmbH/Wiederholung_ortsuebliche_Bekanntmachung_Offenlage_Marina_Weingarten.pdf" target="_blank">Wiederholung der Bekanntmachung vom 25.01.2024</a></p><p><a href="https://sgdnord.rlp.de/fileadmin/sgdnord/Abteilung_3/Dokumente/Wasserwirtschaft/Laufende_Verfahren/Marina_Weingarten_Zell_Projekt_GmbH/Oeffentliche_Bekanntmachung_SGD_Nord_Marina_Weinhafen.pdf" target="_blank">Ursprüngliche Bekanntmachung vom 11.01.2024</a></p><p><a href="https://sgdnord-safe.rlp.de/index.php/s/bxyQ6zfBYyEWS7n" target="_blank" rel="noreferrer">Planunterlagen</a></p></div></div></div><!--TYPO3SEARCH_end--></main></div><footer><div id="nav-footer" class="bg-black text-lg-start pt-8 pt-lg-7 pb-8"><div class="container"><div class="row"><div class="col-12 col-md-6 col-lg-3 mb-4 mb-lg-0 text-white"><div class="accordion" id="footerAccordion-741"><div class="accordion-item bg-transparent"><div role="heading" aria-level="3" class="accordion-header" id="heading741"><button class="accordion-button bg-transparent text-white footer-headline collapsed h3 p-0" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-741" aria-expanded="false" aria-controls="accordion-741">
+							Wichtige Seiten
+						</button></div><div id="accordion-741" class="accordion-collapse collapse d-md-block pt-md-1" aria-labelledby="heading741" data-bs-parent="#footerAccordion-741"><div class="accordion-body p-0"><ul><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/service/bekanntmachungen"  title="Bekanntmachungen">
+											Bekanntmachungen
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/wichtige-seiten/datenschutz"  title="Datenschutz">
+											Datenschutz
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/service/elektronische-kommunikation"  title="Elektronische Kommunikation">
+											Elektronische Kommunikation
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/service/erklaerung-zur-barrierefreiheit"  title="Erklärung zur Barrierefreiheit">
+											Erklärung zur Barrierefreiheit
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/ueber-uns/ihr-recht-auf-information"  title="Ihr Recht auf Information">
+											Ihr Recht auf Information
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/wichtige-seiten/impressum"  title="Impressum">
+											Impressum
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/wichtige-seiten/sitemap"  title="Sitemap">
+											Sitemap
+										</a></li></ul></div></div></div></div></div><div class="col-12 col-md-6 col-lg-3 mb-4 mb-lg-0 text-white"><div class="accordion" id="footerAccordion-739"><div class="accordion-item bg-transparent"><div role="heading" aria-level="3" class="accordion-header" id="heading739"><button class="accordion-button bg-transparent text-white footer-headline collapsed h3 p-0" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-739" aria-expanded="false" aria-controls="accordion-739">
+							Kontakt
+						</button></div><div id="accordion-739" class="accordion-collapse collapse d-md-block pt-md-1" aria-labelledby="heading739" data-bs-parent="#footerAccordion-739"><div class="accordion-body p-0"><ul><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/kontakt/ihre-nachricht-an-die-sgd-nord"  title="Ihre Nachricht an die SGD Nord">
+											Ihre Nachricht an die SGD Nord
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/ueber-uns/so-erreichen-sie-uns"  title="So erreichen Sie uns">
+											So erreichen Sie uns
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="http://145.253.129.252" target=_blank title="Suche nach Ansprechpersonen">
+											Suche nach Ansprechpersonen
+										</a></li></ul></div></div></div></div></div><div class="col-12 col-md-6 col-lg-3 mb-4 mb-lg-0 text-white"><div class="accordion" id="footerAccordion-735"><div class="accordion-item bg-transparent"><div role="heading" aria-level="3" class="accordion-header" id="heading735"><button class="accordion-button bg-transparent text-white footer-headline collapsed h3 p-0" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-735" aria-expanded="false" aria-controls="accordion-735">
+							Presse
+						</button></div><div id="accordion-735" class="accordion-collapse collapse d-md-block pt-md-1" aria-labelledby="heading735" data-bs-parent="#footerAccordion-735"><div class="accordion-body p-0"><ul><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/service/pressemitteilungen"  title="News und Ansprechpersonen">
+											News und Ansprechpersonen
+										</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/service/newsletter/anmeldung"  title="Newsletter">
+											Newsletter
+										</a></li></ul></div></div></div></div></div><div class="col-12 col-md-6 col-lg-3 text-white"><h3 class="footer-headline text-white">
+				Folgen Sie uns
+			</h3><ul class="navbar-nav navbar-social px-7 mb-7"><li class="nav-item py-md-4 pe-6"><a href="https://twitter.com/SGDNord_rlp" title="X ehemals Twitter" target="_blank" class="nav-link p-0" rel="noreferrer"><img class="nav-link__icon" alt="X ehemals Twitter" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/twitter-x_white.svg" width="38" height="38" /></a></li><li class="nav-item py-md-4 pe-6"><a href="https://www.youtube.com/channel/UCF_gjxKKsHVil9xYbQ5HGrw" title="Youtube" target="_blank" class="nav-link p-0" rel="noreferrer"><img class="nav-link__icon" alt="Youtube" src="https://sgdnord.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Icons/youtube_white.svg" width="38" height="38" /></a></li></ul></div></div></div></div></footer>
+
+<script src="https://sgdnord.rlp.de/typo3conf/ext/rlp_site/Resources/Public/JavaScript/vendorBundle.min.js?1705564600"></script>
+<script src="https://sgdnord.rlp.de/typo3conf/ext/rlp_site/Resources/Public/JavaScript/libs.min.js?1705564602"></script>
+<script src="https://sgdnord.rlp.de/typo3conf/ext/rlp_site/Resources/Public/JavaScript/footerBundle.min.js?1701957718"></script>
+
+
+</body>
+</html>
